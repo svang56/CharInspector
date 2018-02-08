@@ -25,7 +25,7 @@ int main()
     else
     {
   //in all other cases...
-  cout<<"?! Pssh. What are you talking about?\n";
+  cout<<"$?! Pssh. What are you talking about?\n";
     }
 
   //no matter what they enter...
